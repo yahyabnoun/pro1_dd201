@@ -5,6 +5,7 @@ import './style.css'
 const Article = () => {
   return (
     <>
+      <h3>  Table    </h3>
         <table id="customers">
           <thead>
             <tr>
