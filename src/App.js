@@ -17,7 +17,7 @@ const App = () =>{
         total : {total} 
         </h2>
         <Article/>
-        <div style={{width:'100%'}}> <img className='img' src={logo} alt=''></img></div>
+        <img className='img' src={logo} alt=''></img>
        
     </div>
   );
