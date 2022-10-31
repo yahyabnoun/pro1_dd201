@@ -7,8 +7,7 @@
     text-align: center;
 }
 .img{
-    margin-top: 10px;
-    margin: auto;
-    width: 60%;
+    display: block;
     height: 500px;
+    margin:5px auto;
 }

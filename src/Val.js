@@ -1,5 +1,5 @@
-export let x=3
-export const y=10
+export let x=16
+export const y=18
 export const total=x+y
 
 

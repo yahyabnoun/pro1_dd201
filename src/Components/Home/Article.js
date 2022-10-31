@@ -5,7 +5,7 @@ import './style.css'
 const Article = () => {
   return (
     <>
-      <h3>  Table    </h3>
+      <h1 style={{ textAlign: 'center', width: '40%', margin: '10px auto', backgroundColor:'#55A9C5'}}>  Table    </h1>
         <table id="customers">
           <thead>
             <tr>
